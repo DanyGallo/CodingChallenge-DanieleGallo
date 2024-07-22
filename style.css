@@ -1,0 +1,74 @@
+header{
+  text-align: center;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 63%;
+  height: 820px;
+  margin: auto;
+  margin-top: 3%;
+  background-color: rgba(0,0,0,.5);
+  border-radius: 2%;
+}
+
+#logo{
+  width: 22%;
+  margin-top: 6%;
+}
+
+.testoverde{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0,250,0,1);
+  margin: 0;
+}
+
+button{
+  font-size: 13px;
+}
+
+.rettangoloverde{
+  background-color: rgba(0,250,0,1);
+  margin: 1% 7%;
+  padding: 10px;
+}
+
+.elenco{
+  margin: 2% 7%;
+}
+
+.bigwhite{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 180%;
+}
+
+.smalewhite{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+}
+
+.carica-arancione{
+  background-color: orange;
+  width: 40%;
+}
+
+.carica-verde{
+  background-color: rgba(0,250,0,1);
+  width: 58%;
+}
+
+.carica-rosso{
+  background-color: red;
+  width: 15%;
+}
+
+.carica-forma{
+  height: 30px;
+  border-radius: 5px;
+}
